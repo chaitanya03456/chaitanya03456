@@ -22,18 +22,18 @@ My focus is on **web development, automation workflows, and problem-solving thro
 ## 🛠 Technical Skills
 
 ### Programming Languages
-Java
-Python
-C++
-HTML
-CSS
-JavaScript
+ - Java
+ - Python
+ - C++
+ - HTML
+ - CSS
+ - JavaScript
 
 ### Areas of Interest
-Web Application Development
-Automation Systems
-AI-powered Workflows
-System Design
+ - Web Application Development
+ - Automation Systems
+ - AI-powered Workflows
+ - System Design
 
 ## 📈 Current Focus
 
