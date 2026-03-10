@@ -50,8 +50,8 @@ It’s about **building systems that solve real problems and evolve over time.**
 
 ## 📫 Connect
 
-GitHub: https://github.com/chaitanya03456  (In Github XD)
-LinkedIn: https://www.linkedin.com/in/krishna-chaitanya-kakucham-cc-waitingtogetin/
+#### GitHub: https://github.com/chaitanya03456  (In Github XD)
+#### LinkedIn: https://www.linkedin.com/in/krishna-chaitanya-kakucham-cc-waitingtogetin/
 
 ---
 
